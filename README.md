@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FelixChinekezi
 - 👀 I’m interested in automation
-- 🌱 I’m currently learning Robotics
-- 📫 How to reach me felix.chinekezi@student.put.poznan.pl
+- 🌱 I’m a graduate engineer of Automatic Control And Robotics
+- 📫 How to reach me phlexchinekezi@gmail.com
 
 <!---
 FelixChinekezi/FelixChinekezi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
